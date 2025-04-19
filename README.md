@@ -3,7 +3,6 @@ original library which can be found at :
  
 ##  https://github.com/bitluni/ESP32Lib
 
-
 # License
 bitluni 2019
 Creative Commons Attribution ShareAlike 4.0
