@@ -1,8 +1,11 @@
-ESP32VGA3Bit
-    based on the ESP32Lib & Adafruit_GFX
-    original library which can be found at :
-        https://github.com/bitluni/ESP32Lib
-        https://github.com/adafruit/Adafruit-GFX-Library
+### ESP32VGA3Bit
+based on the ESP32Lib & Adafruit_GFX
+
+ original library which can be found at :
+ 
+##  https://github.com/bitluni/ESP32Lib
+   
+##   https://github.com/adafruit/Adafruit-GFX-Library
 
 
 ## Installation
@@ -31,4 +34,4 @@ The R, G and B pins are passed as single integers for the 3Bit version. Please t
 The following modes are predefined:
 - MODE720x400
 - MODE640x480
-- MODE640x400additional points that can be used for other purpouses like hit boxes etc.
+- MODE640x400
