@@ -1,7 +1,7 @@
 {
   "name": "ESP32 VGA3Bit",
   "keywords": "VGA, audio, I2S, graphics, font, arduino, esp32, driver, display, bitluni",
-  "description": "Provides VGA, support for the ESP32.,
+  "description": "Provides VGA, support for the ESP32.",
   "repository":
   {
     "type": "git",
