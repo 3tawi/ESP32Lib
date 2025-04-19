@@ -1,7 +1,7 @@
 {
   "name": "ESP32 VGA3Bit",
-  "keywords": "VGA, audio, I2S, 3d, game, engine, mesh, gamepad, controller, NES, SNES, input, output, graphics, font, arduino, esp32, driver, display, bitluni",
-  "description": "Provides VGA, Game Controller (NES, SNES), Audio support for the ESP32. The graphics engine supports sprites, animations and 3d meshes.",
+  "keywords": "VGA, audio, I2S, graphics, font, arduino, esp32, driver, display, bitluni",
+  "description": "Provides VGA, support for the ESP32.,
   "repository":
   {
     "type": "git",
@@ -16,7 +16,7 @@
       "maintainer": true
     }
   ],
-  "version": "0.4.0",
+  "version": "0.3.4",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"]
 }
