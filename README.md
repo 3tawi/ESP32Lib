@@ -1,12 +1,15 @@
 ### ESP32VGA3Bit
-based on the ESP32Lib & Adafruit_GFX
-
- original library which can be found at :
+original library which can be found at :
  
 ##  https://github.com/bitluni/ESP32Lib
    
 ##   https://github.com/adafruit/Adafruit-GFX-Library
 
+
+# License
+bitluni 2019
+Creative Commons Attribution ShareAlike 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Installation
 
